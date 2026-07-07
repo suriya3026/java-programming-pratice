@@ -102,6 +102,6 @@ This repository contains Java programs written while learning Core Java. The pro
 
 ## 👨‍💻 Author
 
-**Suriya J**
+** SURIYA J **
 
 BCA Graduate | Aspiring Java Full Stack Developer

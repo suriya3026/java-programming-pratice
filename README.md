@@ -104,4 +104,4 @@ This repository contains Java programs written while learning Core Java. The pro
 
 ** SURIYA J **
 
-BCA Graduate | Aspiring Java Full Stack Developer
+Frontend Developer | BCA Graduate | HTML5 | CSS3 | Bootstrap | JavaScript | React JS | Responsive Web Developer | Open to Work
